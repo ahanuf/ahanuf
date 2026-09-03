@@ -5,6 +5,8 @@
 
 # 👋 Hello, I’m Ahanuf
 
+Now the rest is necessarily not true
+
 I’m a passionate **full-stack engineer**, **embedded systems hacker**,**maker** and **sci‑fi storyteller** with a never‑ending curiosity for physics, astronomy, and AI. I weave together backend architectures, custom hardware, and rich narratives to create immersive experiences—both digital and literary.
  lifelong learner currently focused on backend systems, AI/ML integration, and immersive 3D simulation technologies. — I believe great technology comes alive when engineering meets imagination.
 
